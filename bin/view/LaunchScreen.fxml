@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+         <menus>
+            <Menu mnemonicParsing="false" text="Author">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#ShowAuthorList" text="AuthorList" />
+                  <MenuItem mnemonicParsing="false" onAction="#closeMe" text="Quit" />
+                  <MenuItem mnemonicParsing="false" onAction="#addNewAuthor" text="AddNewAuthor" />
+              </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Book">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#showBookList" text="Book List" />
+                  <MenuItem mnemonicParsing="false" onAction="#addNewBook" text="Add Book" />
+              </items>
+            </Menu>
+         </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <Label prefWidth="154.0" text="book " BorderPane.alignment="CENTER">
+         <font>
+            <Font size="55.0" />
+         </font>
+      </Label>
+   </center>
+</BorderPane>
