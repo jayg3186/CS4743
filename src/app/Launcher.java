@@ -14,7 +14,10 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.Pane;
+import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
+import javafx.scene.canvas.Canvas;
 
 
 public class Launcher extends Application {
@@ -36,6 +39,7 @@ public class Launcher extends Application {
 		loader.setController(appControl);
 		Parent root = loader.load();
 		appControl.setRootPane((BorderPane)root);
+		
 		
 		Scene scene = new Scene(root, 640, 480);
 		primaryStage.setTitle("Library Book Inventory System");

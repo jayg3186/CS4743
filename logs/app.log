@@ -358,3 +358,67 @@
 14:37:09.016 INFO  controller.AppController : switched to add book pane
 14:37:17.383 INFO  controller.AppController : Quit application item clicked
 14:37:17.393 INFO  app.Launcher : Closing connection...
+15:01:11.119 INFO  app.Launcher : Creating connection...
+15:01:12.438 INFO  app.Launcher : start() called
+15:02:36.042 INFO  app.Launcher : Closing connection...
+15:09:47.546 INFO  app.Launcher : Creating connection...
+15:09:48.718 INFO  app.Launcher : start() called
+15:09:54.846 INFO  controller.AppController : switched to book list pane
+15:10:08.380 INFO  controller.AppController : Author list item clicked
+15:10:08.532 INFO  controller.AppController : switched to author List pane
+15:10:13.292 INFO  controller.AppController : add new author clicked
+15:10:13.326 INFO  controller.AppController : switched to add author pane
+15:10:18.379 INFO  controller.AppController : Author list item clicked
+15:10:18.516 INFO  controller.AppController : switched to author List pane
+15:10:21.375 INFO  controller.AppController : switched to book list pane
+15:10:36.934 INFO  controller.AppController : Author list item clicked
+15:10:36.983 INFO  controller.AppController : switched to author List pane
+15:10:40.721 INFO  controller.AppController : add new author clicked
+15:10:40.723 INFO  controller.AppController : switched to add author pane
+15:10:44.185 INFO  controller.AppController : switched to book list pane
+15:10:50.242 INFO  controller.AppController : Author list item clicked
+15:10:50.297 INFO  controller.AppController : switched to author List pane
+15:10:54.640 INFO  controller.AppController : add new author clicked
+15:10:54.643 INFO  controller.AppController : switched to add author pane
+15:10:56.945 INFO  controller.AppController : switched to book list pane
+15:11:00.032 INFO  controller.AppController : switched to add book pane
+15:11:03.946 INFO  app.Launcher : Closing connection...
+15:11:54.607 INFO  app.Launcher : Creating connection...
+15:11:55.715 INFO  app.Launcher : start() called
+15:12:00.722 INFO  controller.AppController : Author list item clicked
+15:12:00.875 INFO  controller.AppController : switched to author List pane
+15:12:05.179 INFO  controller.AppController : add new author clicked
+15:12:05.186 INFO  controller.AppController : switched to add author pane
+15:12:10.362 INFO  controller.AppController : switched to book list pane
+15:12:13.044 INFO  controller.AppController : switched to add book pane
+15:12:15.663 INFO  controller.AppController : Quit application item clicked
+15:12:15.667 INFO  app.Launcher : Closing connection...
+15:15:45.843 INFO  app.Launcher : Creating connection...
+15:15:46.967 INFO  app.Launcher : start() called
+15:16:02.912 INFO  app.Launcher : Closing connection...
+15:16:32.164 INFO  app.Launcher : Creating connection...
+15:16:33.405 INFO  app.Launcher : start() called
+15:16:37.140 INFO  app.Launcher : Closing connection...
+15:16:55.626 INFO  app.Launcher : Creating connection...
+15:16:56.605 INFO  app.Launcher : start() called
+15:17:12.382 INFO  app.Launcher : Closing connection...
+15:18:25.177 INFO  app.Launcher : Creating connection...
+15:18:26.222 INFO  app.Launcher : start() called
+15:18:35.506 INFO  controller.AppController : Author list item clicked
+15:18:35.659 INFO  controller.AppController : switched to author List pane
+15:18:38.960 INFO  controller.AppController : add new author clicked
+15:18:38.966 INFO  controller.AppController : switched to add author pane
+15:18:43.838 INFO  controller.AppController : Author list item clicked
+15:18:43.895 INFO  controller.AppController : switched to author List pane
+15:18:48.767 INFO  controller.AppController : add new author clicked
+15:18:48.769 INFO  controller.AppController : switched to add author pane
+15:18:58.330 INFO  controller.AppController : switched to book list pane
+15:19:08.762 INFO  controller.AppController : switched to add book pane
+15:19:12.086 INFO  app.Launcher : Closing connection...
+15:26:39.896 INFO  app.Launcher : Creating connection...
+15:26:41.023 INFO  app.Launcher : start() called
+15:27:26.728 INFO  app.Launcher : Creating connection...
+15:27:27.893 INFO  app.Launcher : start() called
+15:27:36.161 INFO  app.Launcher : Closing connection...
+15:27:39.947 INFO  controller.AppController : Quit application item clicked
+15:27:39.961 INFO  app.Launcher : Closing connection...
